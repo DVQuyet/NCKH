@@ -130,7 +130,7 @@ export function Login({ onLogin, onSwitchToRegister }: LoginProps) {
               </div>
               <div>
                 <div className="text-gray-900">Báo cáo chi tiết</div>
-                <div className="text-gray-500 text-sm">Phân tích xu hướng thị trường</div>
+                <div className="text-gray-500 text-sm">Phân tích axu hướng thị trường</div>
               </div>
             </div>
           </div>
